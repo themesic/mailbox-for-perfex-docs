@@ -4,7 +4,7 @@ description: >-
   emails, follow this checklist to investigate and resolve:
 ---
 
-# 🧑‍💻 Troubleshooting
+# 📕 Troubleshooting
 
 ### 1. Check the Activity Log
 
@@ -28,7 +28,7 @@ To get more detailed error output:
     define('ENVIRONMENT', 'development');
     ```
 * Save the file and reload the page to see raw error messages.\
-  &#xNAN;_(Don’t forget to change it back to `production` after testing!)_
+  \&#xNAN;_(Don’t forget to change it back to `production` after testing!)_
 
 ***
 
@@ -60,19 +60,17 @@ The Mailbox module supports two authentication methods:
 
 **Common OAuth Issues:**
 
-* **"OAuth connection failed"**: 
-  - Verify that OAuth credentials are correctly set in **Setup → Settings → Mailbox Settings**
-  - Check that redirect URI is correctly configured in your OAuth app
-  - Ensure your OAuth app has the required scopes (IMAP access, Send email)
-
-* **"Token expired"**: 
-  - OAuth tokens are automatically refreshed. If you see this error, try disconnecting and reconnecting your OAuth account
-  - For Gmail: Tokens expire after 7 days of inactivity. Reconnect if needed.
-  - For Outlook: Tokens are long-lived but may need reconnection if revoked.
-
-* **"OAuth not available"**: 
-  - OAuth is only available for Gmail and Outlook
-  - For other providers, use password authentication
+* **"OAuth connection failed"**:
+  * Verify that OAuth credentials are correctly set in **Setup → Settings → Mailbox Settings**
+  * Check that redirect URI is correctly configured in your OAuth app
+  * Ensure your OAuth app has the required scopes (IMAP access, Send email)
+* **"Token expired"**:
+  * OAuth tokens are automatically refreshed. If you see this error, try disconnecting and reconnecting your OAuth account
+  * For Gmail: Tokens expire after 7 days of inactivity. Reconnect if needed.
+  * For Outlook: Tokens are long-lived but may need reconnection if revoked.
+* **"OAuth not available"**:
+  * OAuth is only available for Gmail and Outlook
+  * For other providers, use password authentication
 
 #### Password Authentication
 

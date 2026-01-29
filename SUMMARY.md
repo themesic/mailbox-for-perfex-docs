@@ -23,5 +23,5 @@
   * [✅ Converting Emails to Tasks](operational-guide/converting-emails-to-tasks.md)
   * [📅 Send Later (Scheduling Emails)](operational-guide/send-later-scheduling-emails.md)
   * [🤖 Auto-Reply Messages](operational-guide/auto-reply-messages.md)
-* [🧑‍💻 Troubleshooting](troubleshooting.md)
+* [📕 Troubleshooting](troubleshooting.md)
 * [🌐 Translation](translation.md)
