@@ -6,7 +6,7 @@ description: >-
 
 # 🧑‍💻 Troubleshooting
 
-### 🔍 1. Check the Activity Log
+### 1. Check the Activity Log
 
 Go to **Utilities → Activity Log** inside Perfex CRM to view any error messages related to IMAP connection or syncing failures.
 

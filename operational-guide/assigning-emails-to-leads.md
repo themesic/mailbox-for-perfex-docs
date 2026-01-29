@@ -1,4 +1,4 @@
-# Assigning Emails to Leads
+# 🎯 Assigning Emails to Leads
 
 Turn emails into leads with one click to support your sales workflow.
 

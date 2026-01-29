@@ -1,4 +1,4 @@
-# Contacts Book
+# 📇 Contacts Book
 
 Autocomplete email addresses using saved contacts for faster and error-free composition.
 

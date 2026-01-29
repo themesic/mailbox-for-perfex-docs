@@ -1,4 +1,4 @@
-# Auto-Reply Messages
+# 🤖 Auto-Reply Messages
 
 Set automated responses to stay in touch when you're unavailable.
 

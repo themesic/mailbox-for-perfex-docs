@@ -1,4 +1,4 @@
-# Assigning Emails to Customer(s)
+# 👤 Assigning Emails to Customer(s)
 
 Link emails to specific customers to keep communication history organized.
 

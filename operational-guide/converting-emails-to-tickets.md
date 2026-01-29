@@ -1,4 +1,4 @@
-# Converting Emails to Tickets
+# 🎫 Converting Emails to Tickets
 
 Create support tickets directly from emails to streamline customer service.
 
