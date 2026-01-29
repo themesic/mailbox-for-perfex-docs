@@ -4,6 +4,8 @@
 * [🚀 Module's Installation](modules-installation.md)
 * [🚧 Configuration Steps](configuration-steps.md)
 * [⚙️ Settings Reference](settings-reference.md)
+* [🔐 Gmail OAuth Setup](oauth-setup-gmail.md)
+* [🔐 Outlook OAuth Setup](oauth-setup-outlook.md)
 * [💻 Operational Guide](operational-guide/README.md)
   * [✉️ Composing an Email](operational-guide/composing-an-email.md)
   * [↩️ Replying to an Email](operational-guide/replying-to-an-email.md)
